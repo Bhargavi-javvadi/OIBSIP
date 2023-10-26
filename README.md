@@ -1,2 +1,2 @@
 # OIBSIP
-Wed Development and Design
+Web Development and Design
